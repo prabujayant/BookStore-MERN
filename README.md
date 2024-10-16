@@ -39,6 +39,29 @@ A full-stack application built with MongoDB, Express.js, React, and Node.js (MER
 * Mongoose
 
 
+## Screenshots
+
+
+### Create Book
+[![Create Book](https://github.com/prabujayant/BookStore-MERN/blob/master/resource/createbook.png)](https://github.com/prabujayant/BookStore-MERN/blob/master/resource/createbook.png)
+
+
+### Delete Book
+[![Delete Book](https://github.com/prabujayant/BookStore-MERN/blob/master/resource/deletebook.png)](https://github.com/prabujayant/BookStore-MERN/blob/master/resource/deletebook.png)
+
+
+### Edit Book
+[![Edit Book](https://github.com/prabujayant/BookStore-MERN/blob/master/resource/editbook.png)](https://github.com/prabujayant/BookStore-MERN/blob/master/resource/editbook.png)
+
+
+### Front Page
+[![Front Page](https://github.com/prabujayant/BookStore-MERN/blob/master/resource/front%20page.png)](https://github.com/prabujayant/BookStore-MERN/blob/master/resource/front%20page.png)
+
+
+### Show Book
+[![Show Book](https://github.com/prabujayant/BookStore-MERN/blob/master/resource/showbook.png)](https://github.com/prabujayant/BookStore-MERN/blob/master/resource/showbook.png)
+
+
 ## Installation
 
 
